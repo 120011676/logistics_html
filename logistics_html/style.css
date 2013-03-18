@@ -63,7 +63,7 @@ ul.sb_menu, ul.ex_menu { margin:0; padding:0; list-style:none; color:#959595;}
 ul.sb_menu li, ul.ex_menu li { margin:0;}
 ul.sb_menu li { padding:4px 0 4px 12px; width:220px;}
 ul.ex_menu li { padding:4px 0 8px 12px;}
-ul.sb_menu li a, ul.ex_menu li a { color:#959595; text-decoration:none; margin-left:-12px; padding-left:22px;  background:url(images/li_a_hover.gif) left no-repeat;}
+ul.sb_menu li a, ul.ex_menu li a { color:#959595; text-decoration:none; margin-left:-12px; padding-left:22px;}
 ul.sb_menu li a:hover, ul.ex_menu li a:hover { color:#7baf30; text-decoration:underline; background:url(images/li_a.gif) left no-repeat;}
 ul.sb_menu li a:hover { text-decoration:underline;}
 ul.ex_menu li a:hover { text-decoration:none;}
